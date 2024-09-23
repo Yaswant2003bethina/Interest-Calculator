@@ -1,1 +1,1 @@
-"# Interest-Calculator" 
+"# Interest" 
